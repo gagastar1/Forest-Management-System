@@ -1,0 +1,9 @@
+# Nixpacks configuration for Railway
+[phases.setup]
+nixPkgs = ["maven", "jdk21"]
+
+[phases.build]
+cmds = ["./mvnw clean package -DskipTests"]
+
+[phases.start]
+cmd = "java -Dserver.port=$PORT -jar target/forest-management-system-1.0.0.jar"
