@@ -14,11 +14,15 @@ C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\c
 C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\service\PlantService.java
 C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\controller\ForestOfficerController.java
 C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\entity\Tree.java
+C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\controller\AuthController.java
 C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\repository\TreeRepository.java
+C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\entity\User.java
 C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\entity\ForestOfficer.java
 C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\repository\AnimalRepository.java
 C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\entity\Resource.java
 C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\controller\WelcomeController.java
+C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\service\UserService.java
+C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\repository\UserRepository.java
 C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\service\VisitorService.java
 C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\repository\ForestOfficerRepository.java
 C:\Users\girio\Desktop\projects\Forest Management System\backend\src\main\java\com\forest\management\repository\ResourceRepository.java

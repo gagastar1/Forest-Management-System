@@ -1,11 +1,15 @@
 com\forest\management\repository\ForestOfficerRepository.class
 com\forest\management\controller\PlantController.class
 com\forest\management\controller\ResourceController.class
+com\forest\management\controller\WelcomeController.class
 com\forest\management\service\PlantService.class
 com\forest\management\service\ForestOfficerService.class
 com\forest\management\service\ResourceService.class
+com\forest\management\service\UserService.class
 com\forest\management\entity\Visitor.class
+com\forest\management\entity\User.class
 com\forest\management\entity\Resource.class
+com\forest\management\controller\AuthController.class
 com\forest\management\controller\AnimalController.class
 com\forest\management\controller\ForestOfficerController.class
 com\forest\management\repository\AnimalRepository.class
@@ -16,6 +20,7 @@ com\forest\management\entity\ForestOfficer.class
 com\forest\management\entity\Tree.class
 com\forest\management\repository\ResourceRepository.class
 com\forest\management\repository\TreeRepository.class
+com\forest\management\repository\UserRepository.class
 com\forest\management\entity\Plant.class
 com\forest\management\service\VisitorService.class
 com\forest\management\repository\PlantRepository.class
